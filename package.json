@@ -1,0 +1,22 @@
+{
+  "name": "cerebro-localization",
+  "version": "0.1.0",
+  "description": "Localization library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EugeneNguyen/cerebro-localization.git"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "Eugene Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneNguyen/cerebro-localization/issues"
+  },
+  "homepage": "https://github.com/EugeneNguyen/cerebro-localization#readme"
+}
